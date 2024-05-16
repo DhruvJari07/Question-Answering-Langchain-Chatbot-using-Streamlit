@@ -12,7 +12,7 @@ Use the following instructions to run this app.
     git clone <github_repo_url>
     ```
 4. cd into this cloned repo.
-5. create a virtual environment and install the required libraries using following commands.
+5. create a virtual environment and install the required libraries using following command.
     ```
     pip install -r requirements.txt
     ```
